@@ -1,4 +1,4 @@
-## <img src="./assets/title-icons/terminal.gif" alt="Terminal" width="32" height="32" align="center" /> About Me:
+## <img src="./assets/title-icons/terminal.gif" alt="Terminal" width="32" height="32" align="absmiddle" /> About Me:
 
 - 👋 Hi, I'm **Mingo**, a **Go backend engineer**.
 - 📍 I'm based in **Shanghai, China**.
