@@ -2,13 +2,14 @@
 
 - 👋 Hi, I'm **Mingo**, a **Go backend engineer**.
 - 📍 I'm based in **Shanghai, China**.
-- 💻 I'm familiar with **Go**, **C++**, and **Agent**.
+- 💻 I'm familiar with **Go**, **C++**, **Python**, and **Agent**.
 - 🌱 I'm currently learning **LLM** and **agent infrastructure**.
 - 🧰 Tech I work with:
 
 <p align="center">
   <a href="./assets/icons/README.md"><img src="./assets/icons/go.svg" alt="Go" title="Go — Gopher by Renee French (CC BY 4.0); click for credits" width="48" height="48" /></a>&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/cplusplus.svg" alt="C++" title="C++" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/python.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/agent.svg" alt="Agent" title="Agent" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;&nbsp;&nbsp;
