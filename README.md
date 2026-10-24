@@ -13,6 +13,7 @@
   <img src="./assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="48" height="48" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/vim.svg" alt="Vim" title="Vim" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/docker.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/linux.svg" alt="Linux" title="Linux" width="48" height="48" />&nbsp;&nbsp;&nbsp;

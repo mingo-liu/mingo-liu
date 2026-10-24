@@ -7,7 +7,7 @@ source and license references; they are not required to display the icons.
 
 - SVG files: [Devicon](https://github.com/devicons/devicon), `go-original.svg`,
   `cplusplus-original.svg`, `python-original.svg`, `git-original.svg`, `docker-original.svg`,
-  `vscode-original.svg`, `apple-original.svg` (displayed as macOS),
+  `vscode-original.svg`, `vim-original.svg`, `apple-original.svg` (displayed as macOS),
   `linux-original.svg`, `mysql-original.svg`, and `kubernetes-original.svg`.
 - The original SVG artwork is unchanged. The additional dark-theme Apple
   variant uses a white fill (`#f0f6fc`) for visibility on dark backgrounds.
